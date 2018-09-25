@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ImageTransform01">
+        <file>Resources/picture01.jpg</file>
+    </qresource>
+</RCC>
